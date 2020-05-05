@@ -1,0 +1,7 @@
+Pimp My Wii Version 3.0
+
+- Fixed a few bugs
+
+- Minor adjustments
+
+- Optimisation for OLDER Wii
